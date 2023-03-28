@@ -1,0 +1,17 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The bst way to watch videos.",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiha2001/wetube-reloaded.git"
+  },
+  "author": "Kiha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiha2001/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/kiha2001/wetube-reloaded#readme"
+}
